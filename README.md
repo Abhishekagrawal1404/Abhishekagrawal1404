@@ -12,7 +12,7 @@ Founder of **OranetAI** — building AI-native operating systems for real-world 
 - Long-horizon coordination systems  
 
 ## Currently building
-**OranetAI** — AI infrastructure for business operations, automation, and intelligent coordination.
+**OranetAI** — building intelligent infrastructure for operations, logistics, and coordinated systems.
 
 ## Building with
 - AI / ML engineering  
