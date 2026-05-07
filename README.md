@@ -14,7 +14,7 @@ Founder of **OranetAI** — building AI-native operating systems for real-world 
 ## Currently building
 **OranetAI** — AI infrastructure for business operations, automation, and intelligent coordination.
 
-## Looking to collaborate on
+## Building with
 - AI / ML engineering  
 - Full-stack product development  
 - Workflow orchestration systems  
